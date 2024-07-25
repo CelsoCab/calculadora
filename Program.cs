@@ -57,7 +57,10 @@ namespace Calculadora
 
 
             }
+           
             Console.WriteLine("El resultado de tu operacion es: {0}", resultado);
+            Console.WriteLine("El resultado de tu operacion es: {0}", resultado);
+
         }
     }
 }
